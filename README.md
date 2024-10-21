@@ -6,6 +6,8 @@ The oscilloscope used in this project is the RIGOL Model DS1202.
 
 ![image](https://github.com/user-attachments/assets/1d24674a-4955-46fa-abea-284619cb2ec7)
 
+![image](https://github.com/user-attachments/assets/87220f73-7532-4243-b44b-71cc1cc6f070)
+
 ## Features
 
 - Connect to and disconnect from an oscilloscope using VISA resource names
